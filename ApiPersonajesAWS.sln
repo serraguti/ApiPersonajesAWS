@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPersonajesAWS", "ApiPersonajesAWS\ApiPersonajesAWS.csproj", "{2D1D1248-4973-4D32-A12C-1F4680DE6168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D1D1248-4973-4D32-A12C-1F4680DE6168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D1D1248-4973-4D32-A12C-1F4680DE6168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D1D1248-4973-4D32-A12C-1F4680DE6168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D1D1248-4973-4D32-A12C-1F4680DE6168}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37E464C6-C059-4495-AD09-68B612807B5A}
+	EndGlobalSection
+EndGlobal
